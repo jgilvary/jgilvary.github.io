@@ -1,2 +1,8 @@
 
-JWeb:PageWithoutTitleCheck"Add a <title> tag to this page.(Õ¶¯M8úÝ—òã1
+I	Web:S1827	"(Remove this deprecated "link" attribute.(Þ³ñÿûÿÿÿÿ8ƒÑÀ‰å1
+O	Web:S1827	".Remove this deprecated "background" attribute.(Þ³ñÿûÿÿÿÿ8¢áÂ‰å1
+J	Web:S1827	")Remove this deprecated "vlink" attribute.(Þ³ñÿûÿÿÿÿ8‘¤Ã‰å1
+aWeb:UnsupportedTagsInHtml5Check"*Remove this deprecated "basefont" element.(¡¼„Ùùÿÿÿÿ8‘¤Ã‰å1
+ZWeb:UnsupportedTagsInHtml5Check"(Remove this deprecated "center" element.(¡á€Ò8‘¤Ã‰å1
+WWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(äÌ°x8‘¤Ã‰å1
+ZWeb:UnsupportedTagsInHtml5Check"(Remove this deprecated "center" element.(¡á€Ò8‘¤Ã‰å1
